@@ -28,4 +28,4 @@ Block 4:
   Data: Block 4 Data
   Hash: 2d5422c45ae0caf2fbd6566111d5bd2434f12e266ef6bea44afdeadf02f47ba9
 
-1
+2
